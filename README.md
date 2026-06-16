@@ -19,9 +19,6 @@ A food delivery application prototype built with Android Studio using Kotlin and
 - **Navigation:** Intent-based with slide animations
 - **IDE:** Android Studio
 
-## 📸 Screenshots
-> Login → Home → Detail → Cart → Confirmation
-
 ## 🚀 How to Run
 1. Clone this repository
 2. Open with Android Studio
